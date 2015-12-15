@@ -1,0 +1,18 @@
+Interstellar Cruise was created by Albert Diserholt, Sunisa Thongdaengdee,
+Pierre Althinson & Worai Col during Ludum Dare 34 Jam with the theme
+"Growing" and "Two button controls".
+
+Ludum Dare page:
+http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=52478
+
+To run on Linux or to run source, the LÖVE engine is required:
+https://love2d.org
+
+Source is available at https://github.com/Drauthius/interstellar-cruise
+
+For Windows:
+  https://drive.google.com/file/d/0B7id3HJ0xQajVzRSbTZxNF9nalE/view?usp=sharing
+For Mac OS X:
+  https://drive.google.com/file/d/0B7id3HJ0xQajY1lLc2trMndYSWs/view?usp=sharing
+.love file:
+  https://drive.google.com/file/d/0B7id3HJ0xQajOU1GMXQtQ0NqYVk/view?usp=sharing
